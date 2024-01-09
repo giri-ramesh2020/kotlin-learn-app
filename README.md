@@ -2,13 +2,8 @@
 このAndroidアプリは、シンプルなタッチベースのゲームで、ユーザーが異なる動物（犬と猫）を表すボタンをクリックできるようにします。
 アプリは各ボタンがクリックされた回数を追跡し、選択された動物を表示し、カウントをリセットするオプションもある。
 
-<img src="snapshot/image.png" width="150">
-<img src="snapshot/image1.png" width="150">
-<img src="snapshot/image2.png" width="150">
-<img src="snapshot/image3.png" width="150">
-
 #### デモ
-![アプリデモ](https://raw.githubusercontent.com/giri-ramesh2020/kotlin-learn-app/main/demo.gif)
+<img src="demo.gif" height="500">
 
 ### 特徴
 #### 動物の選択: 
